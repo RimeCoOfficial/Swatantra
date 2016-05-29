@@ -25,5 +25,5 @@
 ## Wishlist
 1. [Swatantra.org](http://swatantra.org)
 
-Blog: [swatrantaorg.tumblr.com](http://swatrantaorg.tumblr.com)  
+Blog: [swatantraorg.tumblr.com](http://swatantraorg.tumblr.com/)  
 Email: founders@rime.co
