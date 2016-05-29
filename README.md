@@ -6,7 +6,7 @@
 > *founders@rime.co*
 > - **Shubhajit Saha** [suvozit.com](http://suvozit.com), **Girish Nayak** [illusionist.me](http://illusionist.me)
 
-[Know more](https://github.com/swatantraorg/swatantraorg.github.io/wiki)
+Know more [swatantraorg.tumblr.com](http://swatantraorg.tumblr.com/)  
 
 ## Assets
 1. [Rime.co](http://rime.co)
@@ -24,6 +24,3 @@
 
 ## Wishlist
 1. [Swatantra.org](http://swatantra.org)
-
-Blog: [swatantraorg.tumblr.com](http://swatantraorg.tumblr.com/)  
-Email: founders@rime.co
