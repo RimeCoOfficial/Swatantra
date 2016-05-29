@@ -4,26 +4,26 @@
 
 ## Founders
 > *founders@rime.co*
-> - **Shubhajit Saha** (www.suvozit.com), **Girish Nayak** (www.illusionist.me)
+> - **Shubhajit Saha** [suvozit.com](http://suvozit.com), **Girish Nayak** [illusionist.me](http://illusionist.me)
 
 [Know more](https://github.com/swatantraorg/swatantraorg.github.io/wiki)
 
 ## Assets
-1. www.Rime.co
-- www.Rime.social
-- www.Rime.emial
-- www.AdsApp.org
-- www.oEmbed.org
-- www.WeedStory.in
-- www.FromTheFuture.Space
-- www.TheOpinion.xyz
-- www.BitSits.com
+1. [Rime.co](http://rime.co)
+- [Rime.social](http://rime.social)
+- [Rime.emial](http://rime.email)
+- [AdsApp.org](http://adsapp.org)
+- [oEmbed.org](http://oembed.org)
+- [WeedStory.in](http://weedstory.in)
+- [FromTheFuture.Space](http://fromthefuture.space)
+- [TheOpinion.xyz](http://theopinion.xyz)
+- [BitSits.com](http://bitsits.com)
 
 ## Discontinued
-1. www.Gandu.org
+1. [Gandu.org](http://gandu.org)
 
 ## Wishlist
-1. www.Swatantra.org
+1. [Swatantra.org](http://swatantra.org)
 
-Blog: www.swatrantaorg.tumblr.com  
+Blog: [swatrantaorg.tumblr.com](http://swatrantaorg.tumblr.com)  
 Email: founders@rime.co
