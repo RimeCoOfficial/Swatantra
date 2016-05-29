@@ -9,21 +9,21 @@
 [Know more](https://github.com/swatantraorg/swatantraorg.github.io/wiki)
 
 ## Assets
-1. [Rime.co](http://rime.co)
-- [Rime.social](http://rime.social)
-- [Rime.emial](http://rime.email)
-- [AdsApp.org](http://adsapp.org)
-- [oEmbed.org](http://oembed.org)
-- [WeedStory.in](http://weedstory.in)
-- [FromTheFuture.Space](http://fromthefuture.space)
-- [TheOpinion.xyz](http://theopinion.xyz)
-- [BitSits.com](http://bitsits.com)
+1. www.Rime.co
+- www.Rime.social
+- www.Rime.emial
+- www.AdsApp.org
+- www.oEmbed.org
+- www.WeedStory.in
+- www.FromTheFuture.Space
+- www.TheOpinion.xyz
+- www.BitSits.com
 
 ## Discontinued
-1. [Gandu.org](http://gandu.org)
+1. www.Gandu.org
 
 ## Wishlist
-1. [Swatantra.org](http://swatantra.org)
+1. www.Swatantra.org
 
-Blog: [swatrantaorg.tumblr.com](http://swatrantaorg.tumblr.com)  
+Blog: www.swatrantaorg.tumblr.com  
 Email: founders@rime.co
