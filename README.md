@@ -9,7 +9,7 @@
 Email: founders@rime.co
 Blog: [swatantraorg.tumblr.com](http://swatantraorg.tumblr.com/)  
 
-## Dot `W3 @ 2.0`
+## Dots `WWW 2.0`
 1. [Rime.co](http://rime.co)
 - [Rime.social](http://rime.social)
 - [Rime.email](http://rime.email)
