@@ -4,7 +4,7 @@
 
 ## Founders
 > *founders@rime.co*
-> - **Shubhajit Saha** ([@suvozit](http://suvozit.com)), **Girish Nayak** ([@girish](http://illusionist.me))
+> - **Shubhajit Saha** (www.suvozit.com), **Girish Nayak** (www.illusionist.me)
 
 [Know more](https://github.com/swatantraorg/swatantraorg.github.io/wiki)
 
