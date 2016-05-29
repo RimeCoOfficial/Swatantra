@@ -9,7 +9,7 @@
 [Know more](https://github.com/swatantraorg/swatantraorg.github.io/wiki)
 
 ## Assets
-- [Rime.co](http://rime.co)
+1. [Rime.co](http://rime.co)
 - [Rime.social](http://rime.social)
 - [Rime.emial](http://rime.email)
 - [AdsApp.org](http://adsapp.org)
@@ -20,10 +20,10 @@
 - [BitSits.com](http://bitsits.com)
 
 ## Discontinued
-- [Gandu.org](http://gandu.org)
+1. [Gandu.org](http://gandu.org)
 
 ## Wishlist
-- [Swatantra.org](http://swatantra.org)
+1. [Swatantra.org](http://swatantra.org)
 
 Blog: [swatrantaorg.tumblr.com](http://swatrantaorg.tumblr.com)  
 Email: founders@rime.co
